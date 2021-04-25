@@ -1,2 +1,2 @@
 # redo_setting
-making the most efficial your learning.
+making the most effective learning for mac user.
