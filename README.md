@@ -1,2 +1,7 @@
 # redo_setting
-making the most effective learning for mac user.
+macユーザにとって復習をしやすくするものです
+## 復讐？
+復習です。何かを学習したい時、その内容を忘れてしまうのは必然のことですが、その復習の師やすさを格段に上げるプロジェクトです
+## Description
+「エビングハウスの忘却曲線」に基づいて、appleのアプリである<em>Calendar</em>に、記憶の定着に最適である間隔で復習の予定を入れます。
+
